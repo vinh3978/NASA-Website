@@ -1,0 +1,90 @@
+body {
+  background-color: black;
+  font-family: American Typewriter, serif;
+  background-image: url("https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+.banner {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.button {
+  height: 50px;
+}
+
+.menu {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.borderRight {
+  border-right: white 1px solid;
+}
+
+.paragraph {
+  color: white;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-size: 20px;
+}
+
+.h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  display: block;
+}
+
+.white {
+  color: white;
+}
+
+.astronaut {
+  height: 500px;
+  border-radius: 20px;
+}
+
+.display {
+  display: flex;
+  padding: 20px 150px;
+  font-size: 20px;
+  color: white;
+}
+
+.quote {
+  font-style: italic;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color: cyan;
+}
+
+.moonRotate {
+  height: 300px;
+  border-radius: 70%;
+}
+
+.planet {
+  height: 250px;
+border-radius: 50%;
+}
+
+.small {
+  font-size: 15px;
+}
+
+.day {
+ height: 250px;
+}
+
+.big{
+font-size: 70px;
+}
